@@ -1,0 +1,305 @@
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.10.2)  2 DEC 2016 19:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main
+(./main.tex
+pLaTeX2e <2016/05/07> (based on LaTeX2e <2016/03/31>)
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/platex/base/jreport.cls
+Document Class: jreport 2006/06/27 v1.6 Standard pLaTeX class
+\c@@paper=\count81
+(/usr/local/texlive/2016/texmf-dist/tex/platex/base/jsize11.clo
+File: jsize11.clo 2006/06/27 v1.6 Standard pLaTeX file (size option)
+)
+\c@part=\count82
+\c@chapter=\count83
+\c@section=\count84
+\c@subsection=\count85
+\c@subsubsection=\count86
+\c@paragraph=\count87
+\c@subparagraph=\count88
+\c@figure=\count89
+\c@table=\count90
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 669.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count91
+) (./thesis.sty) (/usr/local/texlive/2016/texmf-dist/tex/platex/base/ascmac.sty
+Package: ascmac 2016/04/15 v2.0b ascmac wrapper (community edition) 
+
+(/usr/local/texlive/2016/texmf-dist/tex/platex/base/tascmac.sty
+Package: tascmac 2016/04/15 v2.0b ascmac package (community edition) 
+\@savetbaselineshift=\dimen121
+\@saveybaselineshift=\dimen122
+\scb@x=\box41
+\scscb@x=\box42
+\@bw=\dimen123
+\@nbox=\box43
+\@nbody=\box44
+\@scw=\dimen124
+\@itemh=\dimen125
+\@iboxpos=\toks15
+\@iboxstr=\box45
+\@bwsp=\box46
+\@@bwsp=\box47
+\@bcal=\count92
+\shaderule=\dimen126
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/dvips.def
+File: dvips.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen129
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (./main.aux
+(./00_abstract.aux) (./01.aux) (./02.aux) (./03.aux) (./04.aux)
+(./90_acknowledgment.aux) (./91_bibliography.aux) (./92_appendix.aux))
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 66.
+ [1
+
+]
+[2
+
+]
+\openout2 = `00_abstract.aux'.
+
+ (./00_abstract.tex
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 10.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+ [1
+
+] [2]) (./main.toc
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <8> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 20.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <8> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 20.
+ [3
+
+
+])
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [4] (./main.lof)
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+ [5]
+(./main.lot)
+\tf@lot=\write5
+\openout5 = `main.lot'.
+
+ [6]
+\openout2 = `01.aux'.
+
+ (./01.tex
+第 1 章
+[1
+
+
+
+]) [2]
+\openout2 = `02.aux'.
+
+ (./02.tex
+第 2 章
+[3
+
+
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 50.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 50.
+
+Overfull \hbox (15.76573pt too wide) in paragraph at lines 78--79
+[]\JY1/mc/m/n/10.95 両面印刷の場合 、 偶数ペ ージと奇数ペ ージで余白を広くとる
+べき側が違うので 、 \OT1/cmtt/m/n/10.95 documentclass
+ []
+
+[4] [5]
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 149--167
+[][]$[]$[] []$[]$[] 
+ []
+
+
+Overfull \hbox (2.82059pt too wide) in paragraph at lines 169--170
+[]\OT1/cmtt/m/n/10.95 include \JY1/mc/m/n/10.95 しない場合とする場合を比較する
+とこのとおり。 どちらも出力結果は一緒 。 \OT1/cmtt/m/n/10.95 include
+ []
+
+[6] [7]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 227.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 227.
+ [8] [9] [10]) [11] [12]
+\openout2 = `03.aux'.
+
+ (./03.tex
+第 3 章
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <20.74> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 1.
+[13
+
+
+
+]
+File: image.eps Graphic file (type eps)
+ <image.eps> [14] [15]
+File: image.eps Graphic file (type eps)
+ <image.eps>
+File: image.eps Graphic file (type eps)
+ <image.eps>
+Overfull \hbox (2.43332pt too wide) in paragraph at lines 116--130
+[][]$[]$[] []$[]$[] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--152
+[]\JY1/mc/m/n/10.95 図を二つ横に並べたい場合は 、 次のように書く （ 図\OT1/cmtt
+/m/n/10.95 \ref{fig:sample2}\JY1/mc/m/n/10.95 、 図
+ []
+
+[16]
+LaTeX Font Info:    Try loading font information for OMS+cmtt on input line 196
+.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 196.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbar' on input line 196.
+
+[17]) [18]
+\openout2 = `04.aux'.
+
+ (./04.tex
+第 4 章
+) [19
+
+
+
+]
+\openout2 = `90_acknowledgment.aux'.
+
+ (./90_acknowledgment.tex [20
+
+
+
+]) [21]
+\openout2 = `91_bibliography.aux'.
+
+ (./91_bibliography.tex (./main.bbl
+[22
+
+
+
+]
+
+LaTeX Font Warning: Font shape `JT1/gt/m/it' undefined
+(Font)              using `JT1/gt/m/n' instead on input line 6.
+
+
+LaTeX Font Warning: Font shape `JY1/gt/m/it' undefined
+(Font)              using `JY1/gt/m/n' instead on input line 6.
+
+)) [23]
+\openout2 = `92_appendix.aux'.
+
+ (./92_appendix.tex [24
+
+
+
+]
+付 録 A  
+) [25] (./main.aux (./00_abstract.aux) (./01.aux) (./02.aux) (./03.aux)
+(./04.aux) (./90_acknowledgment.aux) (./91_bibliography.aux) (./92_appendix.aux
+))
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+(\end occurred when \iftrue on line 65 was incomplete) 
+Here is how much of TeX's memory you used:
+ 1022 strings out of 493693
+ 11962 string characters out of 6149787
+ 78527 words of memory out of 5000000
+ 4530 multiletter control sequences out of 15000+600000
+ 22381 words of font info for 87 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 27i,9n,21p,566b,368s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.dvi (33 pages, 64476 bytes).
