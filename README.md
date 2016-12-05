@@ -80,3 +80,4 @@ http://mkdir.g.hatena.ne.jp/ymrl/
 オリジナルのテンプレートについては（おそらく） @kurokobo 
 に著作権があります。
 私が改造した部分についてはすべての権利を放棄いたします。
+# grad_paper00
